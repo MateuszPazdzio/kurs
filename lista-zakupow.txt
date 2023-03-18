@@ -1,2 +1,3 @@
 chleb	7.50
 jajka	13.00
+masło	8.00
